@@ -1,0 +1,80 @@
+body {
+    padding-top: 80px;
+    background-color: rgb(196, 188, 188);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    background-image: url(./images/evie-s-kBzQNk9AgOg-unsplash.jpg); 
+} 
+
+
+h1 {
+    color: #313740;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+    color: #313740;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #000000;
+    font-size: 40px;
+    font-family: 'Archivo', sans-serif;
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Archivo', sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #4D5159;
+}
+
+#hero {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: monospace;
+    color: black;
+}
+
+#heroQuiz {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: monospace;
+    color: black;
+}
+
+#heroSum {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: monospace;
+    color: black;
+}
+
+#scoreDiv {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: monospace;
+    color: black; 
+}
