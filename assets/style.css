@@ -1,10 +1,9 @@
 body {
+    background-image: url(./images/evie-s-kBzQNk9AgOg-unsplash.jpg); 
     padding-top: 80px;
-    background-color: rgb(196, 188, 188);
     background-repeat: none;
     background-size: cover;
     background-position: center;
-    background-image: url(./images/evie-s-kBzQNk9AgOg-unsplash.jpg); 
 } 
 
 
@@ -19,9 +18,9 @@ h2 {
 }
 
 a {
-    color: #000000;
+    color: #d4ec4ce1;
     font-size: 40px;
-    font-family: 'Archivo', sans-serif;
+    font-family:monospace;
 }
 
 #finalScore {
@@ -30,7 +29,7 @@ a {
 }
 
 p {
-    font-family: 'Archivo', sans-serif;
+    font-family: monospace;
 }
 
 #questionTitle {
@@ -48,7 +47,6 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    font-family: monospace;
     color: black;
 }
 
@@ -57,7 +55,6 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    font-family: monospace;
     color: black;
 }
 
@@ -66,7 +63,6 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    font-family: monospace;
     color: black;
 }
 
@@ -75,6 +71,6 @@ p {
     display: flex;
     flex-direction: column;
     text-align: center;
-    font-family: monospace;
-    color: black; 
+    color: #d4ec4c91;
+    font-size: 20px;
 }
